@@ -6,6 +6,9 @@
 - cuda 11.3
 - flwr 0.18.0
 
+### Equipments
+The computing server which has hybrid GPU nodes including NVIDIA RTX3090, NVIDIA RTX3060, NVIDIA A40.
+
 ### Demo
 ```
 bash main.sh
